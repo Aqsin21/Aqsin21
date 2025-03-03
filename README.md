@@ -1,8 +1,8 @@
 # Hello World I'm Aqsin
 #💫 About Me:
-I'm software Developer<br>
-I develop websites and mobile programs
-I'm currenly study<br>
+# I'm software Developer<br>
+#I develop websites and mobile programs<br>
+#I'm currenly study<br>
 
 
 
